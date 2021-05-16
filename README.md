@@ -1,0 +1,2 @@
+# FrameStabilization
+Stabilize shaking cameras
